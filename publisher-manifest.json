@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5dd1bd370fbb097b4877ff6d",
+  "owner": "rywytw3jm",
+  "repo": "page-1e14c20f28489feb7eb5255d",
+  "title": "日不落",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e14c20f28489feb7eb5255d",
+      "a": "日不落",
+      "b": "2027官方最新地址导航",
+      "entity": "日不落",
+      "brand": "日不落",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fd3d4a0d898750055167e6314ac3809ee2237465d78a2e68a46de25de73cc80f",
+      "content": {
+        "primary_entity": "日不落",
+        "keyword1": "日不落",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android、路由器等客户端按使用设备选择。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "打开客户端，导入订阅，按设备需求选择适合的套餐。",
+          "AI_CLOSING_TITLE": "让连接稳定落在每一台设备上",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，分别面向三台、五台和二十台设备的使用需求，月付与年付均可选择。节点覆盖日常流媒体、游戏专线与企业定制路由场景，订阅配置在客户端内完成。",
+          "AI_FEATURES_INTRO": "从套餐选型到订阅导入，三个实用维度快速上手。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机、平板轻量使用；年付只需 ¥150。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，配 VIP 高带宽节点和企业定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐按设备规模选择",
+          "AI_FEATURE_TITLE_2": "年付折算更清晰",
+          "AI_FEATURE_TITLE_3": "订阅周期影响节点选择",
+          "AI_GUIDE_INTRO": "先定位设备与用量，再对照客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "日不落面向海外加速场景，提供基础版、旗舰版和团队版三档订阅。按设备数量与流量需求选择套餐后，在对应客户端导入订阅即可使用，月付和年付两种周期都支持。",
+          "AI_HERO_SUBTITLE": "按设备与流量选对加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付价格折算更省",
+          "AI_HIGHLIGHT_3": "IPLC 专线用于游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。按设备数量、流量需求和线路偏好对比选择。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据使用设备数量与每月流量预期，在基础版、旗舰版、团队版之间做出初步选择。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量、流媒体和游戏专线等适配要求，确认与现有设备匹配。",
+          "AI_STEP_TEXT_3": "按对应客户端的导入说明配置订阅，完成连接测试后即可正常使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "日不落加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，按年付为 ¥150/年，适合手机或电脑轻度使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，包含 IPLC 专线游戏加速优化，按年付为 ¥350/年。",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_4": "常见客户端包括手机端的 Clash、Shadowrocket，电脑端的 Clash Verge、v2rayN，路由器端可按设备选择 OpenWrt 插件或类似方案导入订阅。",
+          "AI_FAQ_ANSWER_5": "月付适合短期体验或流量需求波动较大的用户，年付方案相比月付总价更低，长期使用更省心。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版套餐包含什么？",
+          "AI_FAQ_QUESTION_2": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少设备？",
+          "AI_FAQ_QUESTION_4": "不同设备用什么客户端？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "使用与套餐常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sgrdt.cn",
+    "host": "sgrdt.cn"
+  },
+  "file_hashes": {
+    "index.html": "20c5396611af3e5ae64d19e58923eb8caed25428054b28eaf1f30a781f9a65e6",
+    "sitemap.xml": "646dc039275ab29f2e65cc56568d213edde596543d2b2ea5cace420e3388ed0f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5b268c292f668907d802d25f62730fe8534998eee7d438cb8d39200f9bb04ab2",
+    "robots.txt": "0cbcf68739e070531be96131e4ee7da1eac903c736cd7c4291c5d6d67ce197c4",
+    "2925c7de76b10ce55a32f9b192b0d395.txt": "36de82cebe3b144892b03a5714308c39e6b5cc18ac6940d555f777e89b9f200f"
+  },
+  "revision": "c47659f77546a2d2b97326d52c7e11ca0ac9418a0d7f3f69e957d6c4c4e62013"
+}
